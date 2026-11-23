@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="64" viewBox="0 0 900 64">
+<rect width="900" height="64" rx="5" fill="#101c13"/>
+<rect x="0" width="225" height="5" fill="#022b22"/><rect x="225" width="225" height="5" fill="#275d46"/><rect x="450" width="225" height="5" fill="#569578"/><rect x="675" width="225" height="5" fill="#101c13"/>
+<text x="450" y="39" text-anchor="middle" fill="#9bbdaa" font-size="12" font-family="monospace" letter-spacing="3">KEEP LEARNING. KEEP BUILDING.</text>
+</svg>
