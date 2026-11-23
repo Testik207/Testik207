@@ -12,7 +12,7 @@
 
 <p>Hi, I'm <strong>Timur</strong>, a final-year software development student at <strong>Techno TLN</strong>. I enjoy working with databases and backend logic, and understanding how interfaces, code and data fit together.</p>
 
-<p>I learn through coursework and individual and team projects — from React websites to C# applications. My longer-term goal is to understand software more deeply, including how it interacts with hardware.</p>
+<p>I learn through coursework and individual and team projects - from React websites to C# applications. My longer-term goal is to understand software more deeply, including how it interacts with hardware.</p>
 
 <table>
   <tr>
